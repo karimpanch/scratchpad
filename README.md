@@ -23,3 +23,5 @@ flowchart LR
 Built for Apple silicon Macs running macOS 15 or later. This repository is the public project showcase. The app's source code is private, and a public download is not available yet.
 
 If you use floating notes while coding, [share what you would pin](https://github.com/karimpanch/scratchpad/issues/new) or tell me where your current workflow gets in the way.
+
+All of this was written by Chatgpt/Claude
